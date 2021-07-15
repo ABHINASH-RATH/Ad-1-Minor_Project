@@ -1,0 +1,34 @@
+.sparticles{
+height:100vh;
+width: 100%;
+background-color: #000000;
+}
+card{
+  background-color: azure;
+}
+div{
+  color: #FFFFFf;
+}
+/* by Abhinash Rath */
+body {
+  background:#ffffff;
+  height: 100vh;
+}
+
+.center {
+  position: absolute;
+  text-align: center;
+  top: 30%;
+  width: 100%;
+}
+
+.centerform {
+  margin-left: 600px;
+}
+
+@media screen and (max-width: 420px) {
+  .centerform {
+      margin-left: 100px;
+  }
+}
+/* by Abhinash Rath */
